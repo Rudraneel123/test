@@ -9,7 +9,9 @@ function App() {
   return (
     <>
       <div>
+        <h1>Git Commit!</h1>
         <a href="https://vite.dev" target="_blank">
+        
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
